@@ -1,14 +1,22 @@
 {
-    "name": "Ao No Hako",
-    "id": "27",
-    "genre": ["Romance", "School Life", "Shounen", "Sports"],
+    "name": "Boruto: Two Blue FortexClone",
+    "id": "14",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Martial Arts",
+        "Shounen"
+    ],
     "jenisKomik": "Manga",
     "isCompleted": false,
-    "umur": "15 Tahun",
+    "umur": "13 Tahun",
     "baca": "Kanan Ke Kiri",
     "rating": 5,
-    "cover": "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1741073411/Manga-Ao-no-Hako_yhntkh.jpg",
-    "sinopsis": "Seorang anak laki-laki dari tim bola voli datang lebih awal ke gym setiap hari, dan jatuh cinta dengan senpai dari tim bola basket putri yang juga selalu berlatih di sana.",
+    "cover": "https://res.cloudinary.com/du4wegspv/image/upload/f_auto,q_auto,w_800/v1739088843/Head-Boruto-Two-Blue-Vortex_fu18un.jpg",
+    "sinopsis": "Boruto Uzumaki itu dirinya yang dulu sebelum dia kehilangan segalanya, sekarang dia hanyalah Seorang Boruto Otsutsuki, Seorang Nukenin yang hanya ingin mengambil kembali hak nya, kehidupan dan posisinya. Seorang nukenin terkuat sepanjang sejarah telah kembali untuk menantang 'Saudara' nya, Perang akan terjadi, Kematian didepan mata, dan sekarang waktu eksekusinya, Welcome Back Boruto Otsutsuki, Welcome To Reality.",
     "chapters": [
         {
             "number": 1,
