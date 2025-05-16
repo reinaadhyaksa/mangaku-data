@@ -1,7 +1,7 @@
 {
   "id": 2,
   "title": "Wind Breaker",
-  "images": "https://res.cloudinary.com/du4wegspv/image/upload/v1747310873/81TmHlRleJL._AC_UF1000_1000_QL80__cvfqov.jpg",
+  "images": "https://res.cloudinary.com/du4wegspv/image/upload/f_auto,q_auto,w_800/v1747399172/Wind_Breaker_1_cbgxd4.png",
   "author": "Jo Yongseok",
   "rating": "8.5 (12,5 k)",
   "status": false,
@@ -11,22 +11,61 @@
     {
       "number": 1,
       "pages": [
-        "https://res.cloudinary.com/du4wegspv/image/upload/v1747310873/81TmHlRleJL._AC_UF1000_1000_QL80__cvfqov.jpg"
+        ""
       ]
     },
     {
       "number": 2,
       "pages": [
-        "https://res.cloudinary.com/du4wegspv/image/upload/v1747310873/81TmHlRleJL._AC_UF1000_1000_QL80__cvfqov.jpg",
-        "https://res.cloudinary.com/du4wegspv/image/upload/v1747310873/81TmHlRleJL._AC_UF1000_1000_QL80__cvfqov.jpg"
+        ""
       ]
     },
     {
       "number": 3,
       "pages": [
-        "https://res.cloudinary.com/du4wegspv/image/upload/v1747310873/81TmHlRleJL._AC_UF1000_1000_QL80__cvfqov.jpg",
-        "https://res.cloudinary.com/du4wegspv/image/upload/v1747310873/81TmHlRleJL._AC_UF1000_1000_QL80__cvfqov.jpg",
-        "https://res.cloudinary.com/du4wegspv/image/upload/v1747310873/81TmHlRleJL._AC_UF1000_1000_QL80__cvfqov.jpg"
+        ""
+      ]
+    },
+    {
+      "number": 4,
+      "pages": [
+        ""
+      ]
+    },
+    {
+      "number": 5,
+      "pages": [
+        ""
+      ]
+    },
+    {
+      "number": 6,
+      "pages": [
+        ""
+      ]
+    },
+    {
+      "number": 7,
+      "pages": [
+        ""
+      ]
+    },
+    {
+      "number": 8,
+      "pages": [
+        ""
+      ]
+    },
+    {
+      "number": 9,
+      "pages": [
+        ""
+      ]
+    },
+    {
+      "number": 10,
+      "pages": [
+        ""
       ]
     }
   ]

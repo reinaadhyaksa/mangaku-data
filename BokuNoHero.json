@@ -1,0 +1,520 @@
+{
+  "id": 5,
+  "title": "Boku no Hero Academia",
+  "images": "https://res.cloudinary.com/du4wegspv/image/upload/f_auto,q_auto,w_800/v1747398987/Boku_no_Hero_Academia_Volume_1_ee4k6z.png",
+  "author": "Kōhei Horikoshi",
+  "rating": "8.5 (120 k)",
+  "status": true,
+  "genre": [
+    "Action",
+    "Superhero",
+    "Science Fantasy",
+    "School Life",
+    "Coming-of-Age"
+  ],
+  "sinopsis": "Dalam dunia di mana sekitar 80% populasi memiliki kekuatan super yang disebut 'Quirk', Izuku Midoriya adalah salah satu dari sedikit orang yang lahir tanpa kekuatan tersebut. Meskipun demikian, ia bercita-cita menjadi pahlawan sejati. Setelah menunjukkan keberanian luar biasa, ia menarik perhatian All Might, pahlawan nomor satu, yang kemudian mewariskan kekuatannya kepada Izuku dan membimbingnya untuk masuk ke U.A. High School, akademi pelatihan pahlawan terbaik.",
+  "chapters": [
+    {
+      "number": 1,
+      "pages": [
+        ""
+      ]
+    },
+    {
+      "number": 2,
+      "pages": [
+        ""
+      ]
+    },
+    {
+      "number": 3,
+      "pages": [
+        ""
+      ]
+    },
+    {
+      "number": 4,
+      "pages": [
+        ""
+      ]
+    },
+    {
+      "number": 5,
+      "pages": [
+        ""
+      ]
+    },
+    {
+      "number": 6,
+      "pages": [
+        ""
+      ]
+    },
+    {
+      "number": 7,
+      "pages": [
+        ""
+      ]
+    },
+    {
+      "number": 8,
+      "pages": [
+        ""
+      ]
+    },
+    {
+      "number": 9,
+      "pages": [
+        ""
+      ]
+    },
+    {
+      "number": 10,
+      "pages": [
+        ""
+      ]
+    },
+    {
+      "number": 11
+    },
+    {
+      "number": 12
+    },
+    {
+      "number": 13
+    },
+    {
+      "number": 14
+    },
+    {
+      "number": 15
+    },
+    {
+      "number": 16
+    },
+    {
+      "number": 17
+    },
+    {
+      "number": 18,
+      "pages": [
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083560/Meganei_Bok.no.Her.Acade_VOLUME_003-004_mrvpk5.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083560/Meganei_Bok.no.Her.Acade_VOLUME_003-005_ldggjx.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083561/Meganei_Bok.no.Her.Acade_VOLUME_003-006_zzsc6z.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083564/Meganei_Bok.no.Her.Acade_VOLUME_003-007_kfiqnm.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083568/Meganei_Bok.no.Her.Acade_VOLUME_003-008_kndesl.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083567/Meganei_Bok.no.Her.Acade_VOLUME_003-009_tjsogz.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083560/Meganei_Bok.no.Her.Acade_VOLUME_003-010_tjnhop.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083563/Meganei_Bok.no.Her.Acade_VOLUME_003-011_eaaojj.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083567/Meganei_Bok.no.Her.Acade_VOLUME_003-012_nbbrxu.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083568/Meganei_Bok.no.Her.Acade_VOLUME_003-013_djayrm.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083568/Meganei_Bok.no.Her.Acade_VOLUME_003-014_fagmg4.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083568/Meganei_Bok.no.Her.Acade_VOLUME_003-015_eqhxza.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083569/Meganei_Bok.no.Her.Acade_VOLUME_003-016_lot3f0.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083570/Meganei_Bok.no.Her.Acade_VOLUME_003-017_txehgj.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083571/Meganei_Bok.no.Her.Acade_VOLUME_003-018_dh8b8a.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083571/Meganei_Bok.no.Her.Acade_VOLUME_003-019_eg8ot1.jpg"
+      ]
+    },
+    {
+      "number": 19,
+      "pages": [
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083601/Meganei_Bok.no.Her.Acade_VOLUME_003-021_yiuuro.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083602/Meganei_Bok.no.Her.Acade_VOLUME_003-022_yqbg6x.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083603/Meganei_Bok.no.Her.Acade_VOLUME_003-023_jsawgj.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083605/Meganei_Bok.no.Her.Acade_VOLUME_003-024_axd34o.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083606/Meganei_Bok.no.Her.Acade_VOLUME_003-025_yq4dqf.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083604/Meganei_Bok.no.Her.Acade_VOLUME_003-026_cnd3qq.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083606/Meganei_Bok.no.Her.Acade_VOLUME_003-027_pmbnyp.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083607/Meganei_Bok.no.Her.Acade_VOLUME_003-028_dsfctg.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083607/Meganei_Bok.no.Her.Acade_VOLUME_003-029_fyhpqi.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083608/Meganei_Bok.no.Her.Acade_VOLUME_003-030_agrq9i.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083612/Meganei_Bok.no.Her.Acade_VOLUME_003-031_tgycvs.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083612/Meganei_Bok.no.Her.Acade_VOLUME_003-032_nan3kq.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083612/Meganei_Bok.no.Her.Acade_VOLUME_003-033_ls168c.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083612/Meganei_Bok.no.Her.Acade_VOLUME_003-034_khs3mo.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083612/Meganei_Bok.no.Her.Acade_VOLUME_003-035_tanb9b.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083612/Meganei_Bok.no.Her.Acade_VOLUME_003-036_f1w3lb.jpg"
+      ]
+    },
+    {
+      "number": 20,
+      "pages": [
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083638/Meganei_Bok.no.Her.Acade_VOLUME_003-037_ucf4fu.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083639/Meganei_Bok.no.Her.Acade_VOLUME_003-038_jf171h.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083640/Meganei_Bok.no.Her.Acade_VOLUME_003-039_llacwx.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083643/Meganei_Bok.no.Her.Acade_VOLUME_003-040_eod2fs.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083641/Meganei_Bok.no.Her.Acade_VOLUME_003-041_pvzpmp.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083643/Meganei_Bok.no.Her.Acade_VOLUME_003-042_w7slhn.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083643/Meganei_Bok.no.Her.Acade_VOLUME_003-043_awu5n6.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083644/Meganei_Bok.no.Her.Acade_VOLUME_003-044_yqwy5g.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083651/Meganei_Bok.no.Her.Acade_VOLUME_003-045_ymibmc.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083653/Meganei_Bok.no.Her.Acade_VOLUME_003-046_ywjsvo.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083655/Meganei_Bok.no.Her.Acade_VOLUME_003-047_hif6nf.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083655/Meganei_Bok.no.Her.Acade_VOLUME_003-048_h0wypr.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083655/Meganei_Bok.no.Her.Acade_VOLUME_003-049_caqjbz.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083658/Meganei_Bok.no.Her.Acade_VOLUME_003-050_jneacc.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083659/Meganei_Bok.no.Her.Acade_VOLUME_003-051_ru3yo1.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083657/Meganei_Bok.no.Her.Acade_VOLUME_003-052_iw4igv.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083658/Meganei_Bok.no.Her.Acade_VOLUME_003-053_ulvtab.jpg"
+      ]
+    },
+    {
+      "number": 21,
+      "pages": [
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083846/Meganei_Bok.no.Her.Acade_VOLUME_003-055_shnxv9.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083846/Meganei_Bok.no.Her.Acade_VOLUME_003-056_my4pdr.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083847/Meganei_Bok.no.Her.Acade_VOLUME_003-057_uta2rc.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083848/Meganei_Bok.no.Her.Acade_VOLUME_003-058_xmjn9q.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083850/Meganei_Bok.no.Her.Acade_VOLUME_003-059_lcdhys.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083851/Meganei_Bok.no.Her.Acade_VOLUME_003-060_i58xnq.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083852/Meganei_Bok.no.Her.Acade_VOLUME_003-061_myn6xe.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083853/Meganei_Bok.no.Her.Acade_VOLUME_003-062_mogko7.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083854/Meganei_Bok.no.Her.Acade_VOLUME_003-063_ly1nhj.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083856/Meganei_Bok.no.Her.Acade_VOLUME_003-064_gveosb.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083857/Meganei_Bok.no.Her.Acade_VOLUME_003-065_afubel.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083858/Meganei_Bok.no.Her.Acade_VOLUME_003-066_wfrulf.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083860/Meganei_Bok.no.Her.Acade_VOLUME_003-067_amdvch.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083861/Meganei_Bok.no.Her.Acade_VOLUME_003-068_yvm2tb.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083862/Meganei_Bok.no.Her.Acade_VOLUME_003-069_ztijss.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083864/Meganei_Bok.no.Her.Acade_VOLUME_003-070_qqjkfo.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083866/Meganei_Bok.no.Her.Acade_VOLUME_003-071_z3soof.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083867/Meganei_Bok.no.Her.Acade_VOLUME_003-072_haffyp.jpg"
+      ]
+    },
+    {
+      "number": 22,
+      "pages": [
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083902/Meganei_Bok.no.Her.Acade_VOLUME_003-074_engm9k.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083903/Meganei_Bok.no.Her.Acade_VOLUME_003-075_k29kni.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083904/Meganei_Bok.no.Her.Acade_VOLUME_003-076_cblxq1.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083905/Meganei_Bok.no.Her.Acade_VOLUME_003-077_ga7b0s.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083906/Meganei_Bok.no.Her.Acade_VOLUME_003-078_droc4v.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083908/Meganei_Bok.no.Her.Acade_VOLUME_003-079_oivbqd.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083909/Meganei_Bok.no.Her.Acade_VOLUME_003-080_uduqbr.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083910/Meganei_Bok.no.Her.Acade_VOLUME_003-081_agwsob.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083912/Meganei_Bok.no.Her.Acade_VOLUME_003-082_bjqvmk.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083913/Meganei_Bok.no.Her.Acade_VOLUME_003-083_jyptbv.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083915/Meganei_Bok.no.Her.Acade_VOLUME_003-084_p3a8yv.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083916/Meganei_Bok.no.Her.Acade_VOLUME_003-085_sluofy.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083917/Meganei_Bok.no.Her.Acade_VOLUME_003-086_hvozfb.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083919/Meganei_Bok.no.Her.Acade_VOLUME_003-087_fza4gj.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083920/Meganei_Bok.no.Her.Acade_VOLUME_003-088_lnvfaj.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083921/Meganei_Bok.no.Her.Acade_VOLUME_003-089_ysubbt.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083923/Meganei_Bok.no.Her.Acade_VOLUME_003-090_nezqhl.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083926/Meganei_Bok.no.Her.Acade_VOLUME_003-091_uhcmng.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083927/Meganei_Bok.no.Her.Acade_VOLUME_003-092_haucyf.jpg"
+      ]
+    },
+    {
+      "number": 23,
+      "pages": [
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083971/Meganei_Bok.no.Her.Acade_VOLUME_003-094_shhxns.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083972/Meganei_Bok.no.Her.Acade_VOLUME_003-095_zjvwmd.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083973/Meganei_Bok.no.Her.Acade_VOLUME_003-096_trdvxg.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083974/Meganei_Bok.no.Her.Acade_VOLUME_003-097_yko2xw.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083976/Meganei_Bok.no.Her.Acade_VOLUME_003-098_vmljio.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083977/Meganei_Bok.no.Her.Acade_VOLUME_003-099_bprr1u.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083979/Meganei_Bok.no.Her.Acade_VOLUME_003-100_osk2ko.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083980/Meganei_Bok.no.Her.Acade_VOLUME_003-101_vrsvmh.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083981/Meganei_Bok.no.Her.Acade_VOLUME_003-102_px2g6a.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083983/Meganei_Bok.no.Her.Acade_VOLUME_003-103_wce9eu.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083985/Meganei_Bok.no.Her.Acade_VOLUME_003-104_n5hlff.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083986/Meganei_Bok.no.Her.Acade_VOLUME_003-105_virj18.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083987/Meganei_Bok.no.Her.Acade_VOLUME_003-106_q0l1ng.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083989/Meganei_Bok.no.Her.Acade_VOLUME_003-107_wxalmg.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083991/Meganei_Bok.no.Her.Acade_VOLUME_003-108_dctlxv.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083991/Meganei_Bok.no.Her.Acade_VOLUME_003-109_ehfoch.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083993/Meganei_Bok.no.Her.Acade_VOLUME_003-110_zogz9g.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083995/Meganei_Bok.no.Her.Acade_VOLUME_003-111_penizk.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742083997/Meganei_Bok.no.Her.Acade_VOLUME_003-112_zro5qi.jpg"
+      ]
+    },
+    {
+      "number": 24,
+      "pages": [
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084030/Meganei_Bok.no.Her.Acade_VOLUME_003-114_drs6d0.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084032/Meganei_Bok.no.Her.Acade_VOLUME_003-115_pqbbci.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084032/Meganei_Bok.no.Her.Acade_VOLUME_003-116_ib2bxm.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084034/Meganei_Bok.no.Her.Acade_VOLUME_003-117_edplrj.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084037/Meganei_Bok.no.Her.Acade_VOLUME_003-118_cvg691.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084036/Meganei_Bok.no.Her.Acade_VOLUME_003-119_ywobtl.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084039/Meganei_Bok.no.Her.Acade_VOLUME_003-120_siykpj.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084038/Meganei_Bok.no.Her.Acade_VOLUME_003-121_ysias1.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084039/Meganei_Bok.no.Her.Acade_VOLUME_003-122_y8xc98.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084041/Meganei_Bok.no.Her.Acade_VOLUME_003-123_buqpfn.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084042/Meganei_Bok.no.Her.Acade_VOLUME_003-124_aizlsw.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084044/Meganei_Bok.no.Her.Acade_VOLUME_003-125_xyenbw.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084045/Meganei_Bok.no.Her.Acade_VOLUME_003-126_bxhrb1.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084047/Meganei_Bok.no.Her.Acade_VOLUME_003-127_jzttgc.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084049/Meganei_Bok.no.Her.Acade_VOLUME_003-128_atcyxi.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084051/Meganei_Bok.no.Her.Acade_VOLUME_003-129_jn321b.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084052/Meganei_Bok.no.Her.Acade_VOLUME_003-130_vvngpz.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084054/Meganei_Bok.no.Her.Acade_VOLUME_003-131_tofdza.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084055/Meganei_Bok.no.Her.Acade_VOLUME_003-132_inyg8h.jpg"
+      ]
+    },
+    {
+      "number": 25,
+      "pages": [
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084075/Meganei_Bok.no.Her.Acade_VOLUME_003-134_fvaqpf.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084077/Meganei_Bok.no.Her.Acade_VOLUME_003-135_erlvqp.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084078/Meganei_Bok.no.Her.Acade_VOLUME_003-136_p7mgre.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084079/Meganei_Bok.no.Her.Acade_VOLUME_003-137_wpe8wi.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084081/Meganei_Bok.no.Her.Acade_VOLUME_003-138_jnotnm.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084083/Meganei_Bok.no.Her.Acade_VOLUME_003-139_jqna2x.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084084/Meganei_Bok.no.Her.Acade_VOLUME_003-140_u1inji.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084085/Meganei_Bok.no.Her.Acade_VOLUME_003-141_aurjwd.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084086/Meganei_Bok.no.Her.Acade_VOLUME_003-142_mk4dro.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084088/Meganei_Bok.no.Her.Acade_VOLUME_003-143_jzvv8k.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084089/Meganei_Bok.no.Her.Acade_VOLUME_003-144_ferkgb.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084091/Meganei_Bok.no.Her.Acade_VOLUME_003-145_fd0qm4.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084092/Meganei_Bok.no.Her.Acade_VOLUME_003-146_nxpt7n.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084094/Meganei_Bok.no.Her.Acade_VOLUME_003-147_k8banp.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084096/Meganei_Bok.no.Her.Acade_VOLUME_003-148_hocznm.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084098/Meganei_Bok.no.Her.Acade_VOLUME_003-149_ndz1bz.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084100/Meganei_Bok.no.Her.Acade_VOLUME_003-150_hctltw.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084101/Meganei_Bok.no.Her.Acade_VOLUME_003-151_sqhyej.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084103/Meganei_Bok.no.Her.Acade_VOLUME_003-152_isabvc.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084104/Meganei_Bok.no.Her.Acade_VOLUME_003-153_rilx5a.jpg"
+      ]
+    },
+    {
+      "number": 26,
+      "pages": [
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084125/Meganei_Bok.no.Her.Acade_VOLUME_003-155_plvbvu.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084126/Meganei_Bok.no.Her.Acade_VOLUME_003-156_jkakob.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084127/Meganei_Bok.no.Her.Acade_VOLUME_003-157_zxgy5v.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084128/Meganei_Bok.no.Her.Acade_VOLUME_003-158_r2jr13.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084129/Meganei_Bok.no.Her.Acade_VOLUME_003-159_f0crtf.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084131/Meganei_Bok.no.Her.Acade_VOLUME_003-160_sog3y7.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084133/Meganei_Bok.no.Her.Acade_VOLUME_003-161_l9jic9.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084133/Meganei_Bok.no.Her.Acade_VOLUME_003-162_mce3fp.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084135/Meganei_Bok.no.Her.Acade_VOLUME_003-163_e7iyqu.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084137/Meganei_Bok.no.Her.Acade_VOLUME_003-164_aum3jj.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084139/Meganei_Bok.no.Her.Acade_VOLUME_003-165_eqyawq.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084140/Meganei_Bok.no.Her.Acade_VOLUME_003-166_knyx0n.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084141/Meganei_Bok.no.Her.Acade_VOLUME_003-167_lganmg.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084143/Meganei_Bok.no.Her.Acade_VOLUME_003-168_vvjc5m.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084146/Meganei_Bok.no.Her.Acade_VOLUME_003-169_dctu0b.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084148/Meganei_Bok.no.Her.Acade_VOLUME_003-170_knboac.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084149/Meganei_Bok.no.Her.Acade_VOLUME_003-171_usodlc.jpg"
+      ]
+    },
+    {
+      "number": 27,
+      "pages": [
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084170/Meganei_Bok.no.Her.Acade_VOLUME_004-004_sekjue.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084171/Meganei_Bok.no.Her.Acade_VOLUME_004-005_fhka1t.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084173/Meganei_Bok.no.Her.Acade_VOLUME_004-006_fk7ymm.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084174/Meganei_Bok.no.Her.Acade_VOLUME_004-007_ipexi5.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084176/Meganei_Bok.no.Her.Acade_VOLUME_004-008_agmkrx.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084177/Meganei_Bok.no.Her.Acade_VOLUME_004-009_itsqof.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084179/Meganei_Bok.no.Her.Acade_VOLUME_004-010_h21u24.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084180/Meganei_Bok.no.Her.Acade_VOLUME_004-011_kgzcrb.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084182/Meganei_Bok.no.Her.Acade_VOLUME_004-012_d4xxyq.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084184/Meganei_Bok.no.Her.Acade_VOLUME_004-013_iykpfs.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084186/Meganei_Bok.no.Her.Acade_VOLUME_004-014_bqdebc.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084187/Meganei_Bok.no.Her.Acade_VOLUME_004-015_jia6h6.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084190/Meganei_Bok.no.Her.Acade_VOLUME_004-016_hmjzte.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084191/Meganei_Bok.no.Her.Acade_VOLUME_004-017_b6nzxn.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084193/Meganei_Bok.no.Her.Acade_VOLUME_004-018_xbsgjb.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084195/Meganei_Bok.no.Her.Acade_VOLUME_004-019_vojoqf.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084197/Meganei_Bok.no.Her.Acade_VOLUME_004-020_dfmgwm.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084198/Meganei_Bok.no.Her.Acade_VOLUME_004-021_wcdzr6.jpg"
+      ]
+    },
+    {
+      "number": 28,
+      "pages": [
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084217/Meganei_Bok.no.Her.Acade_VOLUME_004-022_eazxwg.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084219/Meganei_Bok.no.Her.Acade_VOLUME_004-023_pi3e7c.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084221/Meganei_Bok.no.Her.Acade_VOLUME_004-024_oocfix.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084223/Meganei_Bok.no.Her.Acade_VOLUME_004-025_pdgv03.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084224/Meganei_Bok.no.Her.Acade_VOLUME_004-026_sp3jmi.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084226/Meganei_Bok.no.Her.Acade_VOLUME_004-027_yuzkpw.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084228/Meganei_Bok.no.Her.Acade_VOLUME_004-028_prb2ni.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084230/Meganei_Bok.no.Her.Acade_VOLUME_004-029_ben3jk.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084231/Meganei_Bok.no.Her.Acade_VOLUME_004-030_ivqnxq.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084232/Meganei_Bok.no.Her.Acade_VOLUME_004-031_nr9hri.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084234/Meganei_Bok.no.Her.Acade_VOLUME_004-032_ad1xuw.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084236/Meganei_Bok.no.Her.Acade_VOLUME_004-033_ijnzmo.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084238/Meganei_Bok.no.Her.Acade_VOLUME_004-034_whr6q9.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084241/Meganei_Bok.no.Her.Acade_VOLUME_004-035_zr66xr.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084242/Meganei_Bok.no.Her.Acade_VOLUME_004-036_nesvxd.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084244/Meganei_Bok.no.Her.Acade_VOLUME_004-037_jg44w0.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084245/Meganei_Bok.no.Her.Acade_VOLUME_004-038_i1ixlu.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084248/Meganei_Bok.no.Her.Acade_VOLUME_004-039_dz9di2.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084250/Meganei_Bok.no.Her.Acade_VOLUME_004-040_ohuddc.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084252/Meganei_Bok.no.Her.Acade_VOLUME_004-041_uhhnip.jpg"
+      ]
+    },
+    {
+      "number": 29,
+      "pages": [
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084306/Meganei_Bok.no.Her.Acade_VOLUME_004-043_dsr0rs.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084307/Meganei_Bok.no.Her.Acade_VOLUME_004-044_ly8ajl.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084309/Meganei_Bok.no.Her.Acade_VOLUME_004-045_pjz42u.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084311/Meganei_Bok.no.Her.Acade_VOLUME_004-046_epeex3.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084315/Meganei_Bok.no.Her.Acade_VOLUME_004-047_cctkda.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084317/Meganei_Bok.no.Her.Acade_VOLUME_004-048_yozbbz.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084318/Meganei_Bok.no.Her.Acade_VOLUME_004-049_wgoot2.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084319/Meganei_Bok.no.Her.Acade_VOLUME_004-050_pb44ft.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084320/Meganei_Bok.no.Her.Acade_VOLUME_004-051_rglt2g.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084321/Meganei_Bok.no.Her.Acade_VOLUME_004-052_vhvxvr.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084324/Meganei_Bok.no.Her.Acade_VOLUME_004-053_v8w1tp.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084326/Meganei_Bok.no.Her.Acade_VOLUME_004-054_gczygl.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084328/Meganei_Bok.no.Her.Acade_VOLUME_004-055_kvxs89.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084330/Meganei_Bok.no.Her.Acade_VOLUME_004-056_rujpkx.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084332/Meganei_Bok.no.Her.Acade_VOLUME_004-057_st0fkq.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084333/Meganei_Bok.no.Her.Acade_VOLUME_004-058_jkwtxc.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084336/Meganei_Bok.no.Her.Acade_VOLUME_004-059_hdandl.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084338/Meganei_Bok.no.Her.Acade_VOLUME_004-060_egcxj7.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084340/Meganei_Bok.no.Her.Acade_VOLUME_004-061_zbsfhx.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084342/Meganei_Bok.no.Her.Acade_VOLUME_004-062_alp2tg.jpg"
+      ]
+    },
+    {
+      "number": 30,
+      "pages": [
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084365/Meganei_Bok.no.Her.Acade_VOLUME_004-064_fmmwin.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084368/Meganei_Bok.no.Her.Acade_VOLUME_004-065_jmnesi.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084368/Meganei_Bok.no.Her.Acade_VOLUME_004-066_uh2lnh.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084370/Meganei_Bok.no.Her.Acade_VOLUME_004-067_h5d1ha.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084372/Meganei_Bok.no.Her.Acade_VOLUME_004-068_n8tqzf.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084374/Meganei_Bok.no.Her.Acade_VOLUME_004-069_ebavwb.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084375/Meganei_Bok.no.Her.Acade_VOLUME_004-070_leobty.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084377/Meganei_Bok.no.Her.Acade_VOLUME_004-071_lhalbh.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084379/Meganei_Bok.no.Her.Acade_VOLUME_004-072_nqcaji.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084381/Meganei_Bok.no.Her.Acade_VOLUME_004-073_ydegg6.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084383/Meganei_Bok.no.Her.Acade_VOLUME_004-074_xp0qhz.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084385/Meganei_Bok.no.Her.Acade_VOLUME_004-075_kuei5a.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084386/Meganei_Bok.no.Her.Acade_VOLUME_004-076_btweyg.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084388/Meganei_Bok.no.Her.Acade_VOLUME_004-077_bg0ajq.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084391/Meganei_Bok.no.Her.Acade_VOLUME_004-078_vetui9.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084395/Meganei_Bok.no.Her.Acade_VOLUME_004-079_oaw0ca.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084401/Meganei_Bok.no.Her.Acade_VOLUME_004-080_cmvpgp.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084403/Meganei_Bok.no.Her.Acade_VOLUME_004-081_k7rsev.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084402/Meganei_Bok.no.Her.Acade_VOLUME_004-082_c88h6t.jpg"
+      ]
+    },
+    {
+      "number": 31,
+      "pages": [
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084425/Meganei_Bok.no.Her.Acade_VOLUME_004-083_limxez.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084427/Meganei_Bok.no.Her.Acade_VOLUME_004-084_gozgtd.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084429/Meganei_Bok.no.Her.Acade_VOLUME_004-085_zhy9so.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084431/Meganei_Bok.no.Her.Acade_VOLUME_004-086_rmbpyk.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084432/Meganei_Bok.no.Her.Acade_VOLUME_004-087_k45pgo.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084434/Meganei_Bok.no.Her.Acade_VOLUME_004-088_y58a27.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084436/Meganei_Bok.no.Her.Acade_VOLUME_004-089_wbai1g.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084438/Meganei_Bok.no.Her.Acade_VOLUME_004-090_rfhesy.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084440/Meganei_Bok.no.Her.Acade_VOLUME_004-091_jdietb.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084442/Meganei_Bok.no.Her.Acade_VOLUME_004-092_ltqre7.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084444/Meganei_Bok.no.Her.Acade_VOLUME_004-093_ohy4q1.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084446/Meganei_Bok.no.Her.Acade_VOLUME_004-094_nctejt.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084448/Meganei_Bok.no.Her.Acade_VOLUME_004-095_pagtmc.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084450/Meganei_Bok.no.Her.Acade_VOLUME_004-096_gmlovq.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084452/Meganei_Bok.no.Her.Acade_VOLUME_004-097_rzlriu.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084454/Meganei_Bok.no.Her.Acade_VOLUME_004-098_lyeyhj.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084457/Meganei_Bok.no.Her.Acade_VOLUME_004-099_tzct21.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084460/Meganei_Bok.no.Her.Acade_VOLUME_004-100_kviwmr.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084462/Meganei_Bok.no.Her.Acade_VOLUME_004-101_qfdbqt.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084464/Meganei_Bok.no.Her.Acade_VOLUME_004-102_eileof.jpg"
+      ]
+    },
+    {
+      "number": 32,
+      "pages": [
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084499/Meganei_Bok.no.Her.Acade_VOLUME_004-104_j5opty.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084501/Meganei_Bok.no.Her.Acade_VOLUME_004-105_yxys7a.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084502/Meganei_Bok.no.Her.Acade_VOLUME_004-106_vtfifw.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084503/Meganei_Bok.no.Her.Acade_VOLUME_004-107_avwomx.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084505/Meganei_Bok.no.Her.Acade_VOLUME_004-108_akwnhb.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084508/Meganei_Bok.no.Her.Acade_VOLUME_004-109_ly51mz.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084509/Meganei_Bok.no.Her.Acade_VOLUME_004-110_ne2xx0.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084512/Meganei_Bok.no.Her.Acade_VOLUME_004-111_jt22ti.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084513/Meganei_Bok.no.Her.Acade_VOLUME_004-112_rhwbfj.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084516/Meganei_Bok.no.Her.Acade_VOLUME_004-113_wtzgwa.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084518/Meganei_Bok.no.Her.Acade_VOLUME_004-114_g2vkfc.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084520/Meganei_Bok.no.Her.Acade_VOLUME_004-115_a1k4cm.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084522/Meganei_Bok.no.Her.Acade_VOLUME_004-116_gvipma.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084524/Meganei_Bok.no.Her.Acade_VOLUME_004-117_kxg7m4.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084527/Meganei_Bok.no.Her.Acade_VOLUME_004-118_crs4kq.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084528/Meganei_Bok.no.Her.Acade_VOLUME_004-119_alhy4k.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084531/Meganei_Bok.no.Her.Acade_VOLUME_004-120_lgmsua.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084533/Meganei_Bok.no.Her.Acade_VOLUME_004-121_wyyumo.jpg"
+      ]
+    },
+    {
+      "number": 33,
+      "pages": [
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084556/Meganei_Bok.no.Her.Acade_VOLUME_004-122_ndpt74.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084558/Meganei_Bok.no.Her.Acade_VOLUME_004-123_wwbpxv.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084560/Meganei_Bok.no.Her.Acade_VOLUME_004-124_tpdt6c.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084561/Meganei_Bok.no.Her.Acade_VOLUME_004-125_oo8dj4.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084563/Meganei_Bok.no.Her.Acade_VOLUME_004-126_keybhs.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084565/Meganei_Bok.no.Her.Acade_VOLUME_004-127_mahmjm.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084567/Meganei_Bok.no.Her.Acade_VOLUME_004-128_eysdbn.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084569/Meganei_Bok.no.Her.Acade_VOLUME_004-129_gc55pg.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084572/Meganei_Bok.no.Her.Acade_VOLUME_004-130_g4cn1e.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084574/Meganei_Bok.no.Her.Acade_VOLUME_004-131_h6qjuf.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084576/Meganei_Bok.no.Her.Acade_VOLUME_004-132_qk01ur.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084578/Meganei_Bok.no.Her.Acade_VOLUME_004-133_jvlwyv.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084580/Meganei_Bok.no.Her.Acade_VOLUME_004-134_ja3k91.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084582/Meganei_Bok.no.Her.Acade_VOLUME_004-135_qlhzjv.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084584/Meganei_Bok.no.Her.Acade_VOLUME_004-136_tijysr.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084588/Meganei_Bok.no.Her.Acade_VOLUME_004-137_i27bl3.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084589/Meganei_Bok.no.Her.Acade_VOLUME_004-138_vjdfgw.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084591/Meganei_Bok.no.Her.Acade_VOLUME_004-139_mzlzbf.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084594/Meganei_Bok.no.Her.Acade_VOLUME_004-140_nafvob.jpg"
+      ]
+    },
+    {
+      "number": 34,
+      "pages": [
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084616/Meganei_Bok.no.Her.Acade_VOLUME_004-142_pfuppa.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084618/Meganei_Bok.no.Her.Acade_VOLUME_004-143_okr7ia.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084619/Meganei_Bok.no.Her.Acade_VOLUME_004-144_sjorkf.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084621/Meganei_Bok.no.Her.Acade_VOLUME_004-145_cmuf7l.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084623/Meganei_Bok.no.Her.Acade_VOLUME_004-146_llhmd4.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084626/Meganei_Bok.no.Her.Acade_VOLUME_004-147_s9fqf2.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084627/Meganei_Bok.no.Her.Acade_VOLUME_004-148_tue6q3.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084629/Meganei_Bok.no.Her.Acade_VOLUME_004-149_vd3ni2.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084631/Meganei_Bok.no.Her.Acade_VOLUME_004-150_tid4a0.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084634/Meganei_Bok.no.Her.Acade_VOLUME_004-151_thwvxy.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084636/Meganei_Bok.no.Her.Acade_VOLUME_004-152_kkhy5b.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084638/Meganei_Bok.no.Her.Acade_VOLUME_004-153_mlnvhi.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084640/Meganei_Bok.no.Her.Acade_VOLUME_004-154_nwzaob.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084643/Meganei_Bok.no.Her.Acade_VOLUME_004-155_lljept.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084645/Meganei_Bok.no.Her.Acade_VOLUME_004-156_xfybk4.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084647/Meganei_Bok.no.Her.Acade_VOLUME_004-157_mz29hf.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084650/Meganei_Bok.no.Her.Acade_VOLUME_004-158_as6a6v.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084653/Meganei_Bok.no.Her.Acade_VOLUME_004-159_ibcyc7.jpg"
+      ]
+    },
+    {
+      "number": 35,
+      "pages": [
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084675/Meganei_Bok.no.Her.Acade_VOLUME_004-161_bpnhlc.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084676/Meganei_Bok.no.Her.Acade_VOLUME_004-162_o0c2ig.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084678/Meganei_Bok.no.Her.Acade_VOLUME_004-163_tg8gkp.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084680/Meganei_Bok.no.Her.Acade_VOLUME_004-164_p43gqr.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084682/Meganei_Bok.no.Her.Acade_VOLUME_004-165_hlltap.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084684/Meganei_Bok.no.Her.Acade_VOLUME_004-166_bddyks.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084687/Meganei_Bok.no.Her.Acade_VOLUME_004-167_li1kis.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084689/Meganei_Bok.no.Her.Acade_VOLUME_004-168_p2jaew.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084691/Meganei_Bok.no.Her.Acade_VOLUME_004-169_cysaol.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084693/Meganei_Bok.no.Her.Acade_VOLUME_004-170_e74t2p.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084696/Meganei_Bok.no.Her.Acade_VOLUME_004-171_fii68s.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084698/Meganei_Bok.no.Her.Acade_VOLUME_004-172_em0107.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084700/Meganei_Bok.no.Her.Acade_VOLUME_004-173_mgaxqm.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084702/Meganei_Bok.no.Her.Acade_VOLUME_004-174_xkkskg.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084706/Meganei_Bok.no.Her.Acade_VOLUME_004-175_rymmak.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084707/Meganei_Bok.no.Her.Acade_VOLUME_004-176_fytquu.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084709/Meganei_Bok.no.Her.Acade_VOLUME_004-177_rkwtln.jpg",
+        "https://res.cloudinary.com/dv2wxvuzn/image/upload/f_auto,q_auto,w_800/v1742084713/Meganei_Bok.no.Her.Acade_VOLUME_004-178_tjbt8v.jpg"
+      ]
+    }
+  ]
+}

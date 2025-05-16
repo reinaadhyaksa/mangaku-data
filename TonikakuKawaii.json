@@ -1,12 +1,17 @@
 {
-  "id": 3,
-  "title": "Jujutsu Kaisen",
-  "images": "https://res.cloudinary.com/du4wegspv/image/upload/f_auto,q_auto,w_800/v1747399064/5kn9hnxbfrq71_zb3gxo.jpg",
-  "author": "Gege Akutami",
-  "rating": "8.7 (12,5 k)",
-  "status": false,
-  "genre": ["Action", "Supernatural", "Horror", "Shounen"],
-  "sinopsis": "Yuji Itadori, siswa SMA yang luar biasa kuat, terlibat dalam dunia kutukan dan jujutsu setelah memakan jari Ryomen Sukuna. Ia berjuang melawan roh terkutuk demi menyelamatkan orang-orang yang ia sayangi.",
+  "id": 8,
+  "title": "Tonikaku Kawaii",
+  "images": "https://res.cloudinary.com/du4wegspv/image/upload/f_auto,q_auto,w_800/v1747399092/volume-30-cover-o-o-v0-cz8mqmbpy04e1_ynnksr.jpg",
+  "author": "Kenjirou Hata",
+  "rating": "7.9 (30 k)",
+  "status": true,
+  "genre": [
+    "Comedy",
+    "Romance",
+    "Slice of Life",
+    "Shonen"
+  ],
+  "sinopsis": "Cerita berpusat pada Nasa Yuzaki, seorang siswa pintar yang nyaris kecelakaan dan diselamatkan oleh seorang gadis misterius bernama Tsukasa Tsukuyomi. Setelah menikah secara tiba-tiba, mereka menjalani kehidupan rumah tangga yang penuh momen manis dan lucu, mengungkap sisi romantis dan kehangatan dalam kehidupan sehari-hari mereka.",
   "chapters": [
     {
       "number": 1,
