@@ -1,0 +1,33 @@
+export const WindBreaker = {
+  id: 2,
+  title: "Wind Breaker",
+  images: "https://res.cloudinary.com/du4wegspv/image/upload/v1747310873/81TmHlRleJL._AC_UF1000_1000_QL80__cvfqov.jpg",
+  author: "Jo Yongseok",
+  rating: "8.5 (12,5 k)",
+  status: false,
+  genre: ["Action", "Drama", "School", "Sports"],
+  sinopsis: "Jay, siswa SMA yang dikenal pendiam dan kuat, bergabung dengan klub sepeda 'Hummingbird Crew' dan mulai menemukan arti persahabatan, persaingan, dan tantangan hidup melalui balap sepeda jalanan.",
+  chapters: [
+    {
+      number: 1,
+      pages: [
+        "https://res.cloudinary.com/du4wegspv/image/upload/v1747310873/81TmHlRleJL._AC_UF1000_1000_QL80__cvfqov.jpg",
+      ]
+    },
+    {
+      number: 2,
+      pages: [
+        "https://res.cloudinary.com/du4wegspv/image/upload/v1747310873/81TmHlRleJL._AC_UF1000_1000_QL80__cvfqov.jpg",
+        "https://res.cloudinary.com/du4wegspv/image/upload/v1747310873/81TmHlRleJL._AC_UF1000_1000_QL80__cvfqov.jpg",
+      ]
+    },
+    {
+      number: 3,
+      pages: [
+        "https://res.cloudinary.com/du4wegspv/image/upload/v1747310873/81TmHlRleJL._AC_UF1000_1000_QL80__cvfqov.jpg",
+        "https://res.cloudinary.com/du4wegspv/image/upload/v1747310873/81TmHlRleJL._AC_UF1000_1000_QL80__cvfqov.jpg",
+        "https://res.cloudinary.com/du4wegspv/image/upload/v1747310873/81TmHlRleJL._AC_UF1000_1000_QL80__cvfqov.jpg",
+      ]
+    }
+  ]
+}
