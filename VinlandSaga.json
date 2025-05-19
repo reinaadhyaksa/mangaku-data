@@ -3,7 +3,8 @@
   "title": "Vinland Saga",
   "images": "https://res.cloudinary.com/du4wegspv/image/upload/f_auto,q_auto,w_800/v1747399117/atzqmjhqnye41_mxx1q5.jpg",
   "author": "Makoto Yukimura",
-  "rating": "8.9 (45 k)",
+  "rating": 8.9,
+  "vote": "45 k",
   "status": false,
   "genre": [
     "Action",
@@ -12,6 +13,7 @@
     "Seinen",
     "Drama"
   ],
+  "views": 7000000,
   "sinopsis": "Vinland Saga mengikuti kisah Thorfinn, seorang pejuang muda Viking yang bertekad membalas dendam atas kematian ayahnya. Berlatar abad ke-11 di Eropa, cerita ini menggabungkan sejarah nyata dan fiksi, menggambarkan perjalanan penuh konflik, pengkhianatan, dan pencarian makna hidup di tengah kekerasan dan peperangan Viking.",
   "chapters": [
     {

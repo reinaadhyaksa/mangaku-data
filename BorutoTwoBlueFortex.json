@@ -3,9 +3,11 @@
   "title": "Boruto: Two Blue Vortex",
   "images": "https://res.cloudinary.com/du4wegspv/image/upload/f_auto,q_auto,w_800/v1747399029/the-covers-for-boruto-two-blue-vortex-are-absolute-fire-v0-au6d27flwowc1_d20hm7.jpg",
   "author": "Masashi Kishimoto, Mikio Ikemoto",
- "rating": "7.8 (12,5 k)",
+  "rating": 7.8,
+  "vote": "12,5 k",
   "status": false,
   "genre": ["Action", "Adventure", "Fantasy", "Shounen"],
+  "views": 1000000,
   "sinopsis": "Beberapa tahun setelah kejadian di Boruto: Naruto Next Generations, Boruto Uzumaki kembali dengan kekuatan misterius dan tekad untuk mengungkap kebenaran di balik ancaman baru yang mengintai dunia ninja.",
   "chapters": [
     {

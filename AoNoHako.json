@@ -3,7 +3,8 @@
   "title": "Ao no Hako",
   "images": "https://res.cloudinary.com/du4wegspv/image/upload/f_auto,q_auto,w_800/v1747398802/h5pyeabk6yt61_eqalae.jpg",
   "author": "Shinji Kajio",
-  "rating": "7.0 (1.2 k)",
+  "rating": 7.0,
+  "vote": "1.2 k",
   "status": false,
   "genre": [
     "Mystery",
@@ -12,6 +13,7 @@
     "Seinen",
     "Thriller"
   ],
+  "views": 7500000,
   "sinopsis": "Ao no Hako menceritakan kisah misteri dan psikologis tentang sekelompok orang yang terperangkap dalam sebuah kotak biru yang penuh rahasia dan teka-teki. Mereka harus mencari jalan keluar sambil menghadapi konflik batin dan mengungkap berbagai rahasia yang tersembunyi di balik situasi mereka yang mengancam jiwa.",
   "chapters": [
     {

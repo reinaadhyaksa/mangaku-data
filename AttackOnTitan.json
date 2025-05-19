@@ -3,8 +3,9 @@
   "title": "Attack on Titan",
   "images": "https://res.cloudinary.com/du4wegspv/image/upload/f_auto,q_auto,w_800/v1747398888/27434_gv4f1t.jpg",
   "author": "Hajime Isayama",
-  "rating": "9.1 (250 k)",
-  "status": false,
+  "rating": 9.1,
+  "vote": "251 k",
+  "status": true,
   "genre": [
     "Action",
     "Dark Fantasy",
@@ -12,6 +13,7 @@
     "Drama",
     "Mystery"
   ],
+  "views": 140000000,
   "sinopsis": "Dalam dunia di mana umat manusia hidup di balik tembok raksasa untuk melindungi diri dari makhluk pemakan manusia yang disebut Titan, Eren Yeager bersumpah untuk membasmi semua Titan setelah menyaksikan kehancuran kampung halamannya dan kematian ibunya. Bersama teman-temannya, Mikasa Ackerman dan Armin Arlert, Eren bergabung dengan Survey Corps untuk melawan para Titan dan mengungkap misteri di balik keberadaan mereka.",
   "chapters": [
     {

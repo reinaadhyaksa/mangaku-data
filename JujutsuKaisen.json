@@ -3,9 +3,11 @@
   "title": "Jujutsu Kaisen",
   "images": "https://res.cloudinary.com/du4wegspv/image/upload/f_auto,q_auto,w_800/v1747399064/5kn9hnxbfrq71_zb3gxo.jpg",
   "author": "Gege Akutami",
-  "rating": "8.7 (12,5 k)",
+  "rating": 8.7,
+  "vote": "12,5 k",
   "status": false,
   "genre": ["Action", "Supernatural", "Horror", "Shounen"],
+  "views": 100000000,
   "sinopsis": "Yuji Itadori, siswa SMA yang luar biasa kuat, terlibat dalam dunia kutukan dan jujutsu setelah memakan jari Ryomen Sukuna. Ia berjuang melawan roh terkutuk demi menyelamatkan orang-orang yang ia sayangi.",
   "chapters": [
     {

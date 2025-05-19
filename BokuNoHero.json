@@ -3,7 +3,8 @@
   "title": "Boku no Hero Academia",
   "images": "https://res.cloudinary.com/du4wegspv/image/upload/f_auto,q_auto,w_800/v1747398987/Boku_no_Hero_Academia_Volume_1_ee4k6z.png",
   "author": "Kōhei Horikoshi",
-  "rating": "8.5 (120 k)",
+  "rating": 8.5,
+  "vote": "120 k",
   "status": true,
   "genre": [
     "Action",
@@ -12,6 +13,7 @@
     "School Life",
     "Coming-of-Age"
   ],
+    "views": 100000000,
   "sinopsis": "Dalam dunia di mana sekitar 80% populasi memiliki kekuatan super yang disebut 'Quirk', Izuku Midoriya adalah salah satu dari sedikit orang yang lahir tanpa kekuatan tersebut. Meskipun demikian, ia bercita-cita menjadi pahlawan sejati. Setelah menunjukkan keberanian luar biasa, ia menarik perhatian All Might, pahlawan nomor satu, yang kemudian mewariskan kekuatannya kepada Izuku dan membimbingnya untuk masuk ke U.A. High School, akademi pelatihan pahlawan terbaik.",
   "chapters": [
     {

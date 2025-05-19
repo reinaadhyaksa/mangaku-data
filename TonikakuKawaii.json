@@ -3,7 +3,8 @@
   "title": "Tonikaku Kawaii",
   "images": "https://res.cloudinary.com/du4wegspv/image/upload/f_auto,q_auto,w_800/v1747399092/volume-30-cover-o-o-v0-cz8mqmbpy04e1_ynnksr.jpg",
   "author": "Kenjirou Hata",
-  "rating": "7.9 (30 k)",
+  "rating": 7.9,
+  "vote": "30 k",
   "status": true,
   "genre": [
     "Comedy",
@@ -11,6 +12,7 @@
     "Slice of Life",
     "Shonen"
   ],
+  "views": 25000000,
   "sinopsis": "Cerita berpusat pada Nasa Yuzaki, seorang siswa pintar yang nyaris kecelakaan dan diselamatkan oleh seorang gadis misterius bernama Tsukasa Tsukuyomi. Setelah menikah secara tiba-tiba, mereka menjalani kehidupan rumah tangga yang penuh momen manis dan lucu, mengungkap sisi romantis dan kehangatan dalam kehidupan sehari-hari mereka.",
   "chapters": [
     {

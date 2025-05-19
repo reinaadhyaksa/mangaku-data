@@ -3,9 +3,11 @@
   "title": "Wind Breaker",
   "images": "https://res.cloudinary.com/du4wegspv/image/upload/f_auto,q_auto,w_800/v1747399172/Wind_Breaker_1_cbgxd4.png",
   "author": "Jo Yongseok",
-  "rating": "8.5 (12,5 k)",
+  "rating": 8.6,
+  "vote": "61 k",
   "status": false,
   "genre": ["Action", "Drama", "School", "Sports"],
+  "views": 1022000,
   "sinopsis": "Jay, siswa SMA yang dikenal pendiam dan kuat, bergabung dengan klub sepeda 'Hummingbird Crew' dan mulai menemukan arti persahabatan, persaingan, dan tantangan hidup melalui balap sepeda jalanan.",
   "chapters": [
     {

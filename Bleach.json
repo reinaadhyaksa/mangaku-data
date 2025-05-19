@@ -3,7 +3,8 @@
   "title": "Bleach",
   "images": "https://res.cloudinary.com/du4wegspv/image/upload/f_auto,q_auto,w_800/v1747398950/5507606-74_keldxn.jpg",
   "author": "Tite Kubo",
-  "rating": "8.1 (100 k)",
+  "rating": 8.1,
+  "vote": "100 k",
   "status": true,
   "genre": [
     "Action",
@@ -12,6 +13,7 @@
     "Shonen",
     "Fantasy"
   ],
+  "views": 130000000,
   "sinopsis": "Ichigo Kurosaki adalah remaja yang secara tak sengaja mendapatkan kekuatan Soul Reaper dari Rukia Kuchiki. Dengan kekuatan ini, ia bertugas melindungi dunia manusia dari roh jahat yang disebut Hollow dan membimbing jiwa-jiwa yang sudah meninggal ke dunia selanjutnya. Bleach menceritakan petualangan Ichigo dan teman-temannya menghadapi berbagai ancaman supernatural dan konflik antara dunia manusia dan dunia roh.",
   "chapters": [
     {
